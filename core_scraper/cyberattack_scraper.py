@@ -4,7 +4,7 @@ import pandas as pd
 
 def scrape_cyberattack():
 
-    df = pd.read_csv('../cyberattacks/cyberattacks.csv', sep=';')
+    df = pd.read_csv('./cyberattacks/cyberattacks.csv', sep=';')
 
     #These are useless columns
     df = df.drop(columns=['Individual(s) name(s) leaked/exposed', 'Address(es) leaked/exposed','Level of digital intensity'
@@ -26,8 +26,9 @@ def scrape_cyberattack():
     mask = np.column_stack([df['Summary'].str.contains(pattern, na=False) for col in df])
     df = df.loc[mask.any(axis=1)]
 
-    df.to_csv('../cyberattacks/refined_cyberattacks.csv', index=False)
+    df.to_csv('./cyberattacks/refined_cyberattacks.csv', index=False)
 
+    return df
 
 
 if __name__ == '__main__':

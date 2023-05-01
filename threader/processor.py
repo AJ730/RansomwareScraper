@@ -1,23 +1,19 @@
 from concurrent.futures import ThreadPoolExecutor
 from multiprocessing import freeze_support
-import logging
-
-
-from xss.logger.Logger import Logger
+from logger import log
 
 
 class Scheduler:
-	def __init__(self, pool_size, logging_level=logging.INFO):
+	def __init__(self, pool_size):
 		self.pool_size = pool_size
-		self.logger = Logger.get_logger(logging_level)
 		freeze_support()
 
 	def future_callback_error_logger(self, future):
 		try:
 			identifier = future.result()
-			self.logger.info('Finished Task' + str(identifier))
+			log.info('Finished Task' + str(identifier))
 		except Exception:
-			self.logger.critical("An exception was thrown!", exc_info=True)
+			log.alert("An exception was thrown!")
 
 	def submit_task(self, executor, func, *args, **kwargs):
 		"""
@@ -44,13 +40,13 @@ class Scheduler:
 		@return: tasks
 		@rtype: tasks
 		"""
-		self.logger.info('Starting Tasks')
+		log.info('Starting Tasks')
 
 		executor = ThreadPoolExecutor(max_workers=self.pool_size)
 
 		results = []
 		for i in range(len(funcs)):
-			self.logger.info("Starting Task" + str(i))
+			log.info("Starting Task" + str(i))
 			results.append(executor.submit(funcs[i][0], funcs[i][1]))
 
 		for future in results:

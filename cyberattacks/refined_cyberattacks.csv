@@ -1,0 +1,196 @@
+Year,Organisation,Critical Industry,Sector,Country,Attack type,Attacker,Attack vector,Summary
+2017,"ABCD Pediatrics, P.A.",Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2015,Advantage Dental,Yes,Human health activities,USA,Installed malware,External,Social engineering,Malware installed
+2018,AdventHealth Rollins Brook Hospital,Yes,Human health activities,USA,Installed malware,External,,Malware installed
+2014,Affinity Gaming,No,"Arts, entertainment and recreation",USA,Installed malware,External,,Malware installed
+2017,"Airway Oxygen, Inc.",Yes,Chemicals and chemical products,USA,Installed malware,External,,Ransomware 
+2018,Alaska Department of Health  Social Services,Yes,Human health activities,USA,Installed malware,External,Social engineering,Malware installed
+2017,"Andrea Yaley, DDS",Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2016,"Anne M. Cummings, M.D. F.A.C.P",Yes,Human health activities,USA,Installed malware,External,Vendor vulnerability,Ransomware 
+2017,Arby's,Yes,Accommodation and food service activities,USA,Installed malware,External,,Malware installed on PoS
+2017,Arkansas Oral & Facial Surgery Center,Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2017,Ashland Women's Health,Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2016,"Atlantis, Paradise Island",No,Accommodation and food service activities,USA,Installed malware,External,Unknown network attack,Malware installed on PoS
+2016,"Atlantis, Paradise Island",No,Accommodation and food service activities,USA,Installed malware,External,Unknown network attack,Malware installed on PoS
+2012,Aultman Hospital,Yes,Human health activities,USA,Installed malware,External,Unknown device attack,Malware installed
+2014,Backcountry Gear,No,"Wholesale, retail trade and repair",USA,Installed malware,External,Unknown website/web application attack,Malware installed
+2015,Barbecue Renew,No,"Wholesale, retail trade and repair",USA,Installed malware,External,Unknown website/web application attack,Website was compromised and malware was installed taking data
+2012,Barnes & Noble,No,"Publishing, audiovisual and broadcasting",USA,Installed malware,External,Unknown network attack,Malware installed on PoS
+2013,Barry University Foot and Ankle Institute,Yes,Human health activities,USA,Installed malware,External,Physical device,Malware installed
+2013,Bashas',No,"Wholesale, retail trade and repair",USA,Installed malware,External,Unknown network attack,Malware installed on PoS
+2015,Bistro Burger,Yes,Accommodation and food service activities,USA,Installed malware,External,Unknown network attack,Malware PoS attack
+2016,"Bizmatics, Inc.",Yes,Human health activities,USA,Installed malware,External,Unknown network attack,Malware installed
+2018,Blue springs family care p c,Yes,Human health activities,USA,Installed malware,External,Unknown network attack,Ransomware 
+2018,"Bombas, LLC",No,"Wholesale, retail trade and repair",USA,Installed malware,External,Social engineering,Malware installed on PoS
+2016,"Brandywine Pediatrics, P.A.",Yes,Human health activities,USA,Installed malware,External,,Ransomware
+2017,Bronson nutritional's LLC,No,"Wholesale, retail trade and repair",USA,Installed malware,External,Unknown network attack,Malware installed
+2017,Brooks Brothers,No,"Wholesale, retail trade and repair",USA,Installed malware,External,Unknown network attack,Malware installed
+2017,Campbell Taylor & Company Certified Public Accountants & Consultants,No,Legal and accounting activities,USA,Installed malware,External,Unknown network attack,Unknown attack potentially involving ransomware and unauthorised access
+2017,Cardiology Center of Acadiana,Yes,Human health activities,USA,Installed malware,External,Unknown network attack,Ransomware 
+2018,Cary E. Williams CPA,No,Legal and accounting activities,USA,Installed malware,External,Unknown network attack,Ransomware 
+2018,Cathay Pacific,Yes,Transportation storage,Hong Kong,Installed malware,External,,Unauthorised access and malware installed
+2017,Catholic Charities of the Diocese of Albany,No,Residential care and social work activities,USA,Installed malware,External,Unknown network attack,Malware installed
+2014,Charge Anywhere LLC,Yes,Finance and insurance,USA,Installed malware,External,,Malware installed
+2017,Cheddar's Scratch Kitchen,Yes,Accommodation and food service activities,USA,Installed malware,External,,Malware installed on PoS
+2017,Chipotle Mexican Grill,Yes,Accommodation and food service activities,USA,Installed malware,External,,Malware installed
+2016,Cici's Pizza,Yes,Accommodation and food service activities,USA,Installed malware,External,Unknown network attack,Malware installed
+2017,"Columbus Surgery Center, LLC ",Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2017,Combat Brands,No,"Wholesale, retail trade and repair",USA,Installed malware,External,Unknown website/web application attack,Website was compromised and malware was installed taking data
+2012,Crowne Plaza,No,Accommodation and food service activities,USA,Installed malware,External,Insufficient input validation,Malware installed
+2017,Cruzstar LLC,Yes,IT and other information services,USA,Installed malware,External,Insufficient input validation,Malware was injected into website
+2014,Cyberswim.com,No,"Textiles, wearing apparel and leather",USA,Installed malware,External,,Malware installed
+2014,Dairy Queen,Yes,Accommodation and food service activities,USA,Installed malware,External,,Backoff malware installed
+2013,Datapak Services Corporation,Yes,IT and other information services,USA,Installed malware,External,,Malware installed
+2008,Dave & Buster's,Yes,"Food products, beverages and tobacco",USA,Installed malware,External,,Malware installed
+2016,Desert Care Family  Sports Medicine,Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2017,Dixons Carphone,No,"Wholesale, retail trade and repair",UK,Installed malware,External,,Malware installed
+2018,Dr Amy woodruff,Yes,Human health activities,USA,Installed malware,External,Unknown network attack,Ransomware
+2019,"Dr. DeLuca Dr. Marciano & Associates, P.C. ",Yes,Human health activities,USA,Installed malware,External,,Ransomware
+2016,"East Valley Community Health Center, Inc.",Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2015,Evans Hotels,No,Accommodation and food service activities,USA,Installed malware,External,Unknown network attack,Malware installed
+2016,Eye Institute of Marin,Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2019,"FABEN Obstetrics  Gynaecology, LLC",Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2018,Fairbanks North Star Borough,Yes,Human health activities,USA,Installed malware,External,Vendor vulnerability,Ransomware 
+2017,Family Service Rochester,Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2017,Family Tree Health Clinic,Yes,Human health activities,USA,Installed malware,External,Social engineering,Ransomware 
+2017,Far Niente Winery,Yes,"Agriculture, forestry and fishing",USA,Installed malware,External,,Ransomware 
+2018,Fetal Diagnostic Institute of the Pacific,Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2014,"Flinn Scientific, Inc.",Yes,Machine equipment,USA,Installed malware,External,,Malware installed
+2017,Forever21,No,"Textiles, wearing apparel and leather",USA,Installed malware,External,,Malware installed on PoS (normal PoS attack)
+2017,Forever21,No,"Textiles, wearing apparel and leather",USA,Installed malware,External,,Malware was installed on additional PoS terminals giving access to card logs (separated  from earlier incident as different technique to other PoS attack  with historical credit log data taken)
+2017,GOLFTEC,No,"Wholesale, retail trade and repair",USA,Installed malware,External,,Malware installed at PoS
+2014,Goodwill Industries,No,"Wholesale, retail trade and repair",USA,Installed malware,External,Vendor vulnerability,Malware installed at PoS
+2016,Google Android,Yes,IT and other information services,USA,Installed malware,External,,Malware targeting Android systems
+2013,"Greensboro ABC Stores, Triad ABC ",No,"Wholesale, retail trade and repair",USA,Installed malware,External,,Malware installed at PoS
+2017,"GS1 US, Inc.",No,Advertising and other business services,USA,Installed malware,External,Unknown network attack,Malware installed on PoS
+2017,Hackensack Sleep  Pulmonary Center,Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2007,Hannaford Brothers Supermarket Chain,Yes,"Food products, beverages and tobacco",USA,Installed malware,External,,Malware installed
+2015,Harbortouch,Yes,IT and other information services,USA,Installed malware,External,,Malware installed on PoS
+2018,"Health Management Concepts, Inc.",Yes,Human health activities,USA,Installed malware,External,Social engineering,Ransomware 
+2016,HEI Hotels & Resorts,No,Accommodation and food service activities,USA,Installed malware,External,,Malware installed
+2018,Helly Hansen AS,No,"Wholesale, retail trade and repair",USA,Installed malware,External,Vendor vulnerability,Malware installed
+2014,Hilton Hotels,No,Accommodation and food service activities,USA,Installed malware,External,,Malware installed
+2015,Hilton Hotels,No,Accommodation and food service activities,Global,Installed malware,External,,Malware installed
+2015,Homebridge,No,Residential care and social work activities,USA,Installed malware,External,,Malware installed
+2012,Housatonic Community College,No,Education,USA,Installed malware,External,Vendor vulnerability,Malware installed
+2016,Hutton Hotel,No,Accommodation and food service activities,USA,Installed malware,External,,Malware installed
+2017,Hyatt Hotels,No,Accommodation and food service activities,USA,Installed malware,External,,Malware installed
+2013,ICG America,No,"Wholesale, retail trade and repair",USA,Installed malware,External,,Malware installed 
+2017,Institute for Women's Health,Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2016,InterContinental Hotels Group (IHG),No,Accommodation and food service activities,USA,Installed malware,External,,Malware installed on PoS
+2014,J.M. Smucker Company,Yes,Accommodation and food service activities,USA,Installed malware,External,Unknown network attack,Malware was installed on PoS
+2017,"Jack Anthony Industries, Inc.",No,"Wholesale, retail trade and repair",USA,Installed malware,External,Unknown network attack,Malware installed on PoS
+2014,Japan Airlines,Yes,Transportation storage,Japan,Installed malware,External,Social engineering,Malware installed
+2017,"Jason's Deli - Deli Management, Inc. ",Yes,Accommodation and food service activities,USA,Installed malware,External,Unknown device attack,RAM scraping malware was installed on PoS terminals
+2017,"Jemison Internal Medicine, PC",Yes,Human health activities,USA,Installed malware,External,Unknown network attack,Ransomware 
+2016,Keck Medical Center of USC,Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2016,Kimpton Hotels,No,Accommodation and food service activities,USA,Installed malware,External,,Malware installed on PoS
+2017,Kmart,No,"Wholesale, retail trade and repair",USA,Installed malware,External,,Malware installed on PoS
+2012,Korn/Ferry International,No,Advertising and other business services,USA,Installed malware,External,,Malware installed
+2017,LA fashion enterprise ltd,No,"Textiles, wearing apparel and leather",USA,Installed malware,External,Unknown website/web application attack,Malware installed
+2014,LaCie USA,Yes,"Computer, electronic and optical products",USA,Installed malware,External,,Malware installed
+2016,Laser & Dermatologic Surgery Center,Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2018,"LifeBridge Health, Inc",Yes,Human health activities,USA,Installed malware,External,,Malware installed
+2017,"Longs Peak Family Practice, P.C.",Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2016,Lucky Pet,No,"Wholesale, retail trade and repair",USA,Installed malware,External,,Malware installed on PoS
+2017,LYFE Kitchen,Yes,"Food products, beverages and tobacco",USA,Installed malware,External,Vendor vulnerability,Malware installed on PoS
+2016,"Lynn N. Talbott, JR., CPA",No,Legal and accounting activities,USA,Installed malware,External,,Malware installed
+2017,Maersk,Yes,Transportation storage,Global,Installed malware,External,Vendor vulnerability,Ransomware 
+2019,Maffi Clinics,Yes,Human health activities,USA,Installed malware,External,,Ransomware
+2015,Mama Mio US,Yes,Chemicals and chemical products,UK,Installed malware,External,,Malware installed
+2015,Mandarin Oriental,No,Accommodation and food service activities,UK,Installed malware,External,,Malware installed
+2017,Manduka,No,"Wholesale, retail trade and repair",USA,Installed malware,External,Insufficient input validation,Malware installed
+2017,Mc Mahan Thomson  Associates,No,Legal and accounting activities,USA,Installed malware,External,,Malware installed
+2017,"Medical Oncology Hematology Consultants, PA",Yes,Human health activities,USA,Installed malware,External,,Ransomware
+2016,Meigs County EMS,Yes,Human health activities,USA,Installed malware,External,,Ransomware
+2017,Metropolitan Urology Group,Yes,Human health activities,USA,Installed malware,External,,Ransomware
+2018,Mintie corporation,Yes,Machine equipment,USA,Installed malware,External,,Ransomware
+2018,Mondelez global LLC,Yes,"Food products, beverages and tobacco",USA,Installed malware,External,,Ransomware 
+2017,Mrs. Prindables,Yes,"Food products, beverages and tobacco",USA,Installed malware,External,Vendor vulnerability,Malware installed
+2017,National Health Service,Yes,Human health activities,UK,Installed malware,External,Social engineering,Ransomware
+2017,Native Canada Footwear,No,"Textiles, wearing apparel and leather",USA,Installed malware,External,Insufficient input validation,Malware installed
+2013,NBC.com,No,"Arts, entertainment and recreation",USA,Installed malware,External,Insufficient input validation,Malware installed
+2014,Neiman Marcus,No,"Textiles, wearing apparel and leather",USA,Installed malware,External,,Malware installed
+2016,New Jersey Spine Center,Yes,Human health activities,USA,Installed malware,External,Insufficient authentication validation,Ransomware 
+2015,Noble House  Resorts,No,Accommodation and food service activities,USA,Installed malware,External,,Malware installed at PoS
+2016,Noodles  Company,Yes,Accommodation and food service activities,USA,Installed malware,External,,Malware installed
+2015,North Shore Care Supply,Yes,Human health activities,USA,Installed malware,External,Vendor vulnerability,Ransomware 
+2017,Northwest Rheumatology,Yes,Human health activities,USA,Installed malware,External,,Ransomware
+2017,Nuance Communications,Yes,IT and other information services,USA,Installed malware,External,,Malware installed
+2016,O'Charley's Restaurant  Bar,Yes,Accommodation and food service activities,USA,Installed malware,External,,Malware installed
+2016,Omni Hotels & Resorts,No,Accommodation and food service activities,USA,Installed malware,External,,Malware installed at PoS
+2017,"Oncology Consultants, P.A.",Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2013,Osprey Packs,No,"Wholesale, retail trade and repair",USA,Installed malware,External,,Malware installed
+2013,"Outdoor Network, LLC",No,"Wholesale, retail trade and repair",USA,Installed malware,External,,Malware installed
+2014,P.F. Changs,Yes,Accommodation and food service activities,USA,Installed malware,External,Unknown network attack,Malware installed on PoS
+2017,Pacific Alliance Medical Center,Yes,Human health activities,USA,Installed malware,External,Unknown network attack,Ransomware 
+2019,Parliament House,Yes,Public administration and defence,Australia,Installed malware,External,,Malware installed
+2018,Perry & Associates CPA's A.C.,No,Legal and accounting activities,USA,Installed malware,External,Social engineering,Malware installed
+2019,Pitney Bowes,Yes,Transportation storage,USA,Installed malware,External,Unknown network attack,Ransomware 
+2014,"Placemark Investments, Inc.",Yes,Finance and insurance,USA,Installed malware,External,,Malware installed
+2017,Plastic Surgery Associates of South Dakota,Yes,Human health activities,USA,Installed malware,External,,Ransomware
+2014,"Power Equipment Direct, Inc.",No,"Wholesale, retail trade and repair",USA,Installed malware,External,,Malware installed
+2016,"Professional Dermatology Care, P.C.",Yes,Human health activities,USA,Installed malware,External,,Ransomware
+2017,"PVHS-ICM Employee Health  Wellness, LLC as covered entity  business associate",Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2013,Quayside Publishing Group,No,"Publishing, audiovisual and broadcasting",USA,Installed malware,External,Unknown website/web application attack,Malware installed on PoS
+2017,Rail Europe North America inc,Yes,Transportation storage,USA,Installed malware,External,,Credit card skimming malware
+2017,Rand McNally,Yes,"Computer, electronic and optical products",USA,Installed malware,External,Insufficient input validation,Malware installed
+2014,Reeve-Wood Eye Center,Yes,Human health activities,USA,Installed malware,External,Unknown network attack,Malware installed
+2014,"Reeves International, Inc.",No,Construction,USA,Installed malware,External,Unknown website/web application attack,Malware installed on website
+2017,"Richard Owen Nursery, Inc.",Yes,"Agriculture, forestry and fishing",USA,Installed malware,External,Insufficient input validation,Malware installed on website
+2016,Rosen Hotels & Resorts,No,Accommodation and food service activities,USA,Installed malware,External,,Malware installed
+2013,"Roy's Holdings, Inc. ",Yes,Accommodation and food service activities,USA,Installed malware,External,,Malware installed
+2018,Saint Francis Hospital,Yes,Human health activities,USA,Installed malware,External,,Ransomware
+2017,Salina Family Healthcare Center,Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2016,San Antonio Shoemakers,No,"Textiles, wearing apparel and leather",USA,Installed malware,External,,Malware installed
+2016,"Sequin Dermatology, Office of Robert J Magnon, MD",Yes,Human health activities,USA,Installed malware,External,,Ransomware
+2018,Shein,No,"Textiles, wearing apparel and leather",USA,Installed malware,External,,Malware installed
+2017,"Sheldon M. Golden O.D., Optometric Corporation",Yes,Human health activities,USA,Installed malware,External,Unknown device attack,Ransomware
+2018,ShopPOPDisplays Inc.,No,"Wholesale, retail trade and repair",USA,Installed malware,External,Insufficient input validation,Malware installed
+2014,Sony,No,"Arts, entertainment and recreation",Global,Installed malware,External,,Malware installed
+2017,Spark Pay,Yes,Finance and insurance,USA,Installed malware,External,Unknown network attack,Malware installed
+2014,Splash Car Wash,No,Other service activities,USA,Installed malware,External,Unknown network attack,Malware installed
+2016,Springfield Armory,No,"Wholesale, retail trade and repair",USA,Installed malware,External,Unknown website/web application attack,Malware installed
+2013,Sprouts,No,"Wholesale, retail trade and repair",USA,Installed malware,External,,Malware installed
+2017,St. Mark's Surgery Center,Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2013,St. Mary's Bank,Yes,Finance and insurance,USA,Installed malware,External,,Malware installed
+2016,"Stallcup & Associates, CPAs",No,Legal and accounting activities,USA,Installed malware,External,Unknown network attack,Ransomware 
+2014,Staples,No,"Wholesale, retail trade and repair",USA,Installed malware,External,,Malware installed
+2015,Starwood Hotels,No,Accommodation and food service activities,USA,Installed malware,External,Unknown network attack,Malware installed on PoS
+2011,Subway,Yes,Accommodation and food service activities,USA,Installed malware,External,Unknown network attack,Malware installed on PoS
+2016,Susan M Hughes Center,Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2017,SwimOutlet.com,No,"Wholesale, retail trade and repair",USA,Installed malware,External,Unknown network attack,Malware installed on PoS
+2015,Swiss Cleaners,No,"Textiles, wearing apparel and leather",USA,Installed malware,External,Unknown network attack,Malware installed on PoS
+2018,Temecula motorsports inc,Yes,Machine equipment,USA,Installed malware,External,Unknown network attack,Malware installed on website
+2016,The Ambulatory Surgery Center at St. Mary,Yes,Human health activities,USA,Installed malware,External,Unknown network attack,Ransomware 
+2019,The Brooklyn Hospital Center,Yes,Human health activities,USA,Installed malware,External,Unknown network attack,Ransomware 
+2016,The Buckle Inc.,No,"Wholesale, retail trade and repair",USA,Installed malware,External,,Malware installed on PoS
+2014,The Home Depot,No,"Wholesale, retail trade and repair",USA/Canada,Installed malware,External,Vendor vulnerability,Malware installed
+2018,The May Eye Care Center,Yes,Human health activities,USA,Installed malware,External,Unknown network attack,Ransomware 
+2020,The UPS Store,Yes,Transportation storage,USA,Installed malware,External,Social engineering,Malware installed through phishing attack
+2018,TicketMaster,No,"Arts, entertainment and recreation",USA,Installed malware,External,Vendor vulnerability,Malware installed on vendor code even though organisation modified code
+2006,TJX Companies Inc,No,"Wholesale, retail trade and repair",USA,Installed malware,External,Unknown network attack,Wireless local area networks were used to gain access to the system to install malware.
+2020,Toll,Yes,Transportation storage,Australia,Installed malware,External,,Ransomware 
+2017,Tommie copper inc,No,"Wholesale, retail trade and repair",USA,Installed malware,External,Unknown website/web application attack,Malware installed on website
+2016,Trump Hotels,No,Accommodation and food service activities,USA,Installed malware,External,Vendor vulnerability,Malware installed on PoS
+2012,Unique Vintage,No,"Textiles, wearing apparel and leather",USA,Installed malware,External,Unknown website/web application attack,Malware installed on website
+2016,University Gastroenterology,Yes,Human health activities,USA,Installed malware,External,Unknown network attack,Ransomware
+2015,University of Connecticut,No,Education,USA,Installed malware,External,,Malware installed
+2005,University of Connecticut,No,Education,USA,Installed malware,External,Unknown device attack,Malware installed
+2011,University of Wisconsin - Milwaukee,No,Education,USA,Installed malware,External,Unknown network attack,Malware installed
+2014,UPS,Yes,Transportation storage,USA,Installed malware,External,Insufficient input validation,Malware installed
+2016,Urgent Care Clinic of Oxford,Yes,Human health activities,USA,Installed malware,External,Unknown network attack,Ransomware 
+2017,Urology Austin,Yes,Human health activities,USA,Installed malware,External,Unknown network attack,Ransomware 
+2008,US Army,Yes,Public administration and defence,USA,Installed malware,External,Physical device,Physical device used to install malware
+2015,US Office of Personnel Management,Yes,Public administration and defence,USA,Installed malware,External,Vendor vulnerability,Malware installed
+2017,"USA Hoist Company, Inc./Mid-American Elevator/Mid-American Equipment",No,Transport equipment,USA,Installed malware,External,Unknown device attack,Ransomware 
+2016,Vera Bradley,No,"Wholesale, retail trade and repair",USA,Installed malware,External,Unknown network attack,Malware installed on PoS
+2014,Veterans of Foreign Wars of the U.S.,No,Residential care and social work activities,USA,Installed malware,External,Unknown website/web application attack,Malware installed on website
+2017,Waco Otolaryngology Associates ,Yes,Human health activities,USA,Installed malware,External,,Ransomware 
+2017,Walnut Place,Yes,Human health activities,USA,Installed malware,External,Unknown network attack,Ransomware 
+2016,Wendy's,Yes,Accommodation and food service activities,USA,Installed malware,External,Unknown network attack,Malware installed on PoS
+2017,Westlake Touchless Car Wash,No,Other service activities,USA,Installed malware,External,Vendor vulnerability,Malware installed on PoS
+2013,White Lodging Services Corporation,No,Accommodation and food service activities,USA,Installed malware,External,Unknown network attack,Malware installed on PoS
+2017,Women's Health Care Group of Pennsylvania,Yes,Human health activities,USA,Installed malware,External,Unknown network attack,Ransomware 
+2015,Yellowfront Grocery,Yes,"Food products, beverages and tobacco",USA,Installed malware,External,Insufficient authentication validation,Malware installed on PoS
+2013,Zaxby's,Yes,Accommodation and food service activities,USA,Installed malware,External,Unknown network attack,Malware installed on PoS
